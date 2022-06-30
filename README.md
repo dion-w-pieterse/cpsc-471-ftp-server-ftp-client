@@ -3,7 +3,7 @@
 ## Project Overview:
 The objective of this project was to develop a simple FTP server and FTP client. The application allows the client to connect to the server in order to list server files, upload to, and download from the server, both textual data, and non-textual data such as images etc. There was a focus on protocol design during development.
 
-### Main Development Team
+### Development Team
 - Dion W. Pieterse
 - Justin Chin
 - Ruchi Bagwe
